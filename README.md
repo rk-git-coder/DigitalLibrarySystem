@@ -20,6 +20,12 @@ Run the following command in **Command Prompt/Terminal**:
 git clone https://github.com/rk-git-coder/DigitalLibrarySystem.git
 cd DigitalLibrarySystem
 
+3️⃣ Run the Application
+After navigating to the project directory, run the following command to start the application:
+
+java -jar DigitalLibrarySystem.jar
+
+
 
 
 Challenges Faced & Future Improvements
