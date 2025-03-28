@@ -19,3 +19,23 @@ Run the following command in **Command Prompt/Terminal**:
 ```sh
 git clone https://github.com/rk-git-coder/DigitalLibrarySystem.git
 cd DigitalLibrarySystem
+
+
+
+Challenges Faced & Future Improvements
+🚧 Challenges Faced:
+Handling Errors: Ensuring proper validation for user inputs (e.g., preventing duplicate book entries, handling invalid inputs).
+
+Data Persistence: Currently, the system does not store book data permanently (i.e., once the program exits, all data is lost).
+
+User-Friendly Experience: The console interface is functional but could be improved for better usability.
+
+🚀 Future Improvements:
+File Storage or Database Integration: Implement a database (e.g., MySQL, SQLite) or file storage (e.g., JSON, CSV) to retain book data.
+
+GUI Version: Upgrade the system using Java Swing or JavaFX for a more interactive user experience.
+
+Advanced Search & Filters: Allow users to search books based on multiple filters like genre, author, and availability status.
+
+User Authentication: Implement a login system to differentiate between librarians and regular users with different permissions.
+
